@@ -90,4 +90,4 @@ See `.env.example`. Set secrets only in Catalyst environment settings, never in 
 
 ## Deployment status
 
-The GitHub application source is committed. QuickML model training/publishing and Catalyst AppSail deployment are separate authenticated steps that must be completed in the Catalyst project before a public live application URL can be claimed.
+https://api.catalyst.zoho.in/quickml/v1/project/100281000000013051/endpoints/predict
