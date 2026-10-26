@@ -1,0 +1,7 @@
+{
+  "deployment": {
+    "name": "hacksphere-energy-microgrid",
+    "stack": "python",
+    "platform": "linux"
+  }
+}
