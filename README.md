@@ -6,7 +6,7 @@ GridPulse is a 24-hour energy demand forecasting and microgrid dispatch applicat
 
 ## Official starter kit
 
-The official `HackSphere_Starter_Kit.zip` was received and inspected:
+The official `HackSphere_Starter_Kit.zip` :
 - `train_telemetry.csv`: 4,000 historical rows with `target_demand_kw`.
 - `sample_test_input.csv`: 1,000 feature-only test rows.
 - `predict.py` and `test_eval.py`: official inference and evaluator contract.
